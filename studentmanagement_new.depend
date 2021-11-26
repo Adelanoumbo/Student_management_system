@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1556618147 source:c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr zina\algo lab\studentmanagement_new\main.c
+	"headers.h"
+
+1556618147 c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr zina\algo lab\studentmanagement_new\headers.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1556618266 source:c:\users\abdou\desktop\pkf institute of excellence\freshman i\c-programming mr zina\algo lab\studentmanagement_new\implementstudmanagement.c
+	"headers.h"
+
